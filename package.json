@@ -1,0 +1,11 @@
+{
+  "name": "bulk-update-jira-tickets-with-version",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "1.1.6"
+  },
+  "peerDependencies": {
+    "typescript": "5.0.0"
+  }
+}
